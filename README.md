@@ -7,6 +7,8 @@ The project aims to uncover insights into Seattle airbnbs. This analysis can be 
 2) Calendar: This contains listing availability and price on each data.
 3) Reviews: This CSV contains each reviewers comments and their details.
 
+CSV files could not be saved to GIT as they are large. view them at https://www.kaggle.com/datasets/airbnb/seattle/data
+
 ## Libraries used 
 numpy and pandas: used to wrangle data <br />
 matplotlib: used to create plots and graphs <br />
