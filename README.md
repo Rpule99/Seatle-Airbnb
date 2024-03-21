@@ -15,3 +15,6 @@ matplotlib: used to create plots and graphs <br />
 random: for creating samples from the data <br />
 sklearn: used for modeling <br />
 nltk: Natural language toolkit used to analyse text <br />
+
+## Final Posting
+the final blog post can be viewed at: https://medium.com/@rethabilepule1997/uncovering-insights-on-seatle-airbnbs-14278c075702. it consolidates the findings and explains the hosts can take when listing their accomodations.
